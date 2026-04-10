@@ -1,4 +1,4 @@
-# PDF Merger
+# PDF Merger Tool
 
 A lightweight, browser-based PDF merging tool — no installs, no uploads, no server required. Everything runs locally in your browser.
 
@@ -44,8 +44,8 @@ Works in all modern browsers that support the File API and `ArrayBuffer`:
 No installation required. Just clone or download and open the file:
 
 ```bash
-git clone https://github.com/your-username/pdf-merger.git
-cd pdf-merger
+git clone https://github.com/Lilnuggetr/PDF-Merger-Tool-.git
+cd PDF-Merger-Tool-
 # Open pdf-merger.html in your browser
 ```
 
