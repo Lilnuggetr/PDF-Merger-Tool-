@@ -13,7 +13,8 @@ A lightweight, browser-based PDF merging tool — no installs, no uploads, no se
 
 ## Preview
 
-![PDF Merger Screenshot](C:\Users\shrun\OneDrive\Pictures\Screenshots%201\Screenshot%202026-04-10%20210332.png)
+<img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/e25c5a81-e163-430a-91ed-55857d9d18a3" />
+
 
 ## Demo
 
