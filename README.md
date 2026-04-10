@@ -11,6 +11,10 @@ A lightweight, browser-based PDF merging tool — no installs, no uploads, no se
 - **Progress bar** — visual feedback during the merge process
 - **100% client-side** — your files never leave your device
 
+## Preview
+
+![PDF Merger Screenshot](screenshot.png)
+
 ## Demo
 
 Open `pdf-merger.html` directly in any modern browser — no build step needed.
